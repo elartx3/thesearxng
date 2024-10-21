@@ -10,6 +10,7 @@ https://thesearxng.vercel.app/search?q=%s
 ### For Normal Direct Searching
 https://thesearxng.vercel.app/search?q=(Replace_with_your_Search_Query)
 
+
 ## The UI
 Just visit https://thesearxng.vercel.app/ to start the exploration of the web using SearXNG! and you can make this page as your browser's default homepage too!
 
